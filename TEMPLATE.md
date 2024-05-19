@@ -1,8 +1,8 @@
 # Full Name 
+ANASWARA C
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
+I'm Anaswara C, currently pursuing final year B.tech degree in the field of Computer Science at Nehru College Of Engineering and Research Centre Thrissur. I have a keen interest in the field of Data analytics, Software development and Web development. I am proficient in C/C++ ,Python programming languages.I am currently seeking opportunities to apply my skills and knowledge in a dynamic work environment where I can contribute to innovative projects and make a positive impact.
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Simple Voice Assistant Chatbot | It is Voice Chatbot developed using python programming language.|https://github.com/AnaswaraC/Simple-voice-assistant-chatbot.git  
+| Image to text-voice translator |  It is a online scene image to text translator an AI program    |https://github.com/AnaswaraC/Image-to-text-voice-translator.git 
 
 #### Leadership and Influence:
 
