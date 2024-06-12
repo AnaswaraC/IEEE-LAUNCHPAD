@@ -1,5 +1,5 @@
 <div align="center"> 
-ANASWARA C
+### ANASWARA C
 
 ### About Me
 I'm Anaswara C, currently pursuing final year B.tech degree in the field of computer science at Nehru college of Engineering and Research Centre Thrissur, I have a keen Interest in the field of Data analytics, software development and web development. I am proficient in C/C++, Python programming languages. I am currently seeking opportunities to apply my skills and knowledge in a dynamic work environment where I can contribute to innovative projects and make a positive impact.
