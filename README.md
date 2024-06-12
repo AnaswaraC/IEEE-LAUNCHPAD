@@ -1,5 +1,4 @@
-<div align="center">
-# Full Name 
+<div align="center"> 
 ANASWARA C
 
 ### About Me
