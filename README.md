@@ -38,7 +38,7 @@ Overall, Kerala's tech ecosystem has a lot of promise. With continued government
 
 #### History of Community Engagement:
 
-I am active in Linkedln, Discord, Hackerrank and leetcode 
+I am active in Linkedln, Discord, Hackerrank and Leetcode 
 
 
 #### Highly Used Software Tools:
