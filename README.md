@@ -1,5 +1,5 @@
-<div align="center"> 
- ANASWARA C
+# Full Name 
+ANASWARA C
 
 ### About Me
 I'm Anaswara C, currently pursuing final year B.tech degree in the field of computer science at Nehru college of Engineering and Research Centre Thrissur, I have a keen Interest in the field of Data analytics, software development and web development. I am proficient in C/C++, Python programming languages. I am currently seeking opportunities to apply my skills and knowledge in a dynamic work environment where I can contribute to innovative projects and make a positive impact.
@@ -38,7 +38,7 @@ Overall, Kerala's tech ecosystem has a lot of promise. With continued government
 
 #### History of Community Engagement:
 
-I am active in Linkedln, Discord, Hackerrank and Leetcode
+I am active in Linkedln, Discord, Hackerrank and leetcode 
 
 
 #### Highly Used Software Tools:
@@ -51,9 +51,3 @@ I am active in Linkedln, Discord, Hackerrank and Leetcode
 
 Hackerrank: https://www.hackerrank.com/profile/anaswaraC2001
 Leetcode:https://leetcode.com/u/Anaswara_1/
-</div>
-
-
-
-
-
